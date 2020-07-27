@@ -1,0 +1,12 @@
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "sirpa sahul",
+            "email": "sirpasahul343@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.5"
+    }
+}
